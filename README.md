@@ -16,10 +16,12 @@ This repository lists all the public resources referenced in the presentatio
 ### Plugin Examples
 Several publicly available example plugins to serve as a starting point. Note some examples are not maintained, and are for reference not production use.
 
-[Spoonboy Report Pack](https://github.com/olliehpe/spoon-boy-report-pack)
+[Spoonboy Report Pack](https://github.com/olliehpe/spoon-boy-report-pack) - Several custom reports for appliance user administration.
 
-[Socket Usage Report](https://github.com/olliehpe/socket-usage-report)
+[Socket Usage Report](https://github.com/olliehpe/socket-usage-report) - A recent socket count report for private and public clouds. Guide only.
 
-[Custom Tab Plugin](https://github.com/olliehpe/custom-tab-plugin)
+[Custom Tab Plugin](https://github.com/olliehpe/custom-tab-plugin) - A custom tab example with some CRUD components to provide an updatable interface in the UI.
 
-[Morpheus Example reports plugin](https://github.com/martezr/morpheus-example-reports-plugin)
+[Morpheus Example Reports Plugin](https://github.com/martezr/morpheus-example-reports-plugin) - Misc examples.
+
+[Morpheus Plugin Samples](https://github.com/HewlettPackard/morpheus-plugin-samples) - Misc examples of several different plugin providers.
