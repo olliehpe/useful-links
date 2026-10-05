@@ -3,7 +3,7 @@ This repository lists all the public resources referenced in the presentatio
 
 ## Section link
 
-Two themes link both presentation parts. Capability and Opportnity.  
+Two themes link both presentation parts. Capability and Opportunity.  
 
 For POCs we should assess both 'capability' and 'opportunity' when deciding how to assist a cusomer interested in HVM.
 
