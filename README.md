@@ -3,11 +3,11 @@ This repository lists all the public resources referenced in the presentatio
 
 ## Section link
 
-Two themes link both presentation parts. Capability and Opportunity.  
+Two themes link both presentation parts: Capability and Opportunity.  
 
-For POCs we should assess both 'capability' and 'opportunity' when deciding how to assist a cusomer interested in HVM.
+For POCs we should assess both 'capability' and 'opportunity' when deciding how to assist customers interested in HVM.
 
-For plugins, the SDK provides the customer with the 'capabilty' to create the feature they need, or develop entirely new integrations. While the fact that Morpheus core team certify and retain ownership of some integration plugins, means they can jump in an develop the plugin should there be a sufficiently sized financial 'opportunity' for HPE.
+For plugins, the SDK provides the customer with the 'capabilty' to create the feature they need, or develop entirely new integrations. While the fact that Morpheus core team certify and retain ownership of some integration plugins, means they can jump in and develop the plugin should there be a sufficiently sized financial 'opportunity' for HPE.
 
 Tenous :)
 
