@@ -7,7 +7,9 @@ This repository lists all the public resources referenced in the presentatio
 
 [Morpheus Essentials Documentiation](https://support.hpe.com/hpesc/public/docDisplay?docId=sd00008058en_us&docLocale=en_US)
 
-[HVM Clusters Guide](https://support.hpe.com/hpesc/public/docDisplay?docId=sd00008433en_us&page=GUID-76D7FB26-B201-4FB1-ABEF-B8BE590904CF.html) - Part of the enterprise documentation but worth highlighting/
+[HVM Clusters Guide](https://support.hpe.com/hpesc/public/docDisplay?docId=sd00008433en_us&page=GUID-76D7FB26-B201-4FB1-ABEF-B8BE590904CF.html) - Part of the enterprise documentation but worth highlighting.
+
+[Product Version Comparison Matrix](https://www.hpe.com/us/en/products/software/morpheus-software/features.html) - Matrix, comparing features of Essentials, Advanced, Enterprise.
 
 [Sales Enablement Demo Labs](https://salesenablement.ext.hpe.com/u/login) - Lab environment which includes serveral Morpheus Essentials labs
 
